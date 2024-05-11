@@ -1,2 +1,2 @@
-# AD2-Github
+# AD2-GitHub
 sample description
